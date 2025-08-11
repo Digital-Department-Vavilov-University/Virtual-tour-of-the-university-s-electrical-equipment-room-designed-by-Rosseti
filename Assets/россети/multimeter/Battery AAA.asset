@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe24f565c9ce02945802dfba10d9f6fd, type: 3}
+  m_Name: Battery AAA
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnManagerScriptableObject
+  prefabName: Baterry AAA
+  DCVoltage: 1.5
+  DCmaxVolage: 0
+  DCminVolage: 0
+  ACVoltage: -1
+  ACmaxVolage: -1
+  ACminVolage: -1
+  DCMaxCurrent: -1
+  DCoperationCurrent: -1
+  DCnoLoadCurrent: -1
+  ACMaxCurrent: -1
+  ACoperationCurrent: -1
+  ACnoLoadCurrent: -1
+  resistance: -1
+  conductivity: 1
+  DC: 1
